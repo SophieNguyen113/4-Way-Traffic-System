@@ -13,3 +13,5 @@
  * After the time elapsed, the system resumes the main traffic control cycle from the state where the pedestrian cycle interrupts occurred.
  * ==========================================================
  */
+ 
+ * Notes: Use file .HEX to simulate Arduino code in Proteus Professional. 
